@@ -1,0 +1,4 @@
+{
+    "command": "npm run build",
+    "working_directory": "/home/kavia/workspace/code-generation/recipe-app-demo-video-186628-186706/recipe_app_video_frontend"
+}
